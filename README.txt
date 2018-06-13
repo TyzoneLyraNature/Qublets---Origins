@@ -1,1 +1,1 @@
-﻿
+﻿This project was started by Pierre Erbacher, Pedro Foletto Pimenta and Nicolas Tizon. The versions posted on this account are being worked on by Nicolas Tizon, though it is possible that the other two developers have made their own separate versions. Nonetheless, if you are to use this, please do credit all three of us.
